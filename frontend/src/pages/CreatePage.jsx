@@ -1,8 +1,9 @@
-
-
-function CreatePage() {
+const CreatePage = () => {
   return (
-    <div>CreatePage</div>
+    <>
+      <div>Create Page</div>
+
+    </>
   )
 }
 
